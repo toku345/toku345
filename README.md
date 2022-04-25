@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @toku345
 - 👀 I’m interested in Real-time Animated Storytelling.
-- 🌱 I’m currently learning Unity && C#
+- 🌱 I’m currently learning Unity and C#.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
