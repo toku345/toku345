@@ -5,19 +5,22 @@
 
 ### 👀 I’m interested in
 
-- Real-time Animated Storytelling
+- Software prototyping
 - Computer Graphics
 
 ### 🌱 I’m currently learning 
 
 - C#
-- Unity
+- F#
+- Azure
+  - App Service
+  - Functions
 
 ### :heart: I want to learn
 
 - Graphics programming
 - C++
-- Unreal Engine
+- Rust
 
 <!---
 toku345/toku345 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
