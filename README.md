@@ -10,11 +10,7 @@
 
 ### 🌱 I’m currently learning 
 
-- C#
-- F#
-- Azure
-  - App Service
-  - Functions
+- Go
 
 ### :heart: I want to learn
 
