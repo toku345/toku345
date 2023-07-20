@@ -6,11 +6,13 @@
 ### 👀 I’m interested in
 
 - Software prototyping
-- Computer Graphics
+- UX design & UX engineering
 
 ### 🌱 I’m currently learning 
 
-- Go
+- JavaScript & TypeScript
+- HTML
+- CSS
 
 ### :heart: I want to learn
 
