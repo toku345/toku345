@@ -6,19 +6,11 @@
 ### 👀 I’m interested in
 
 - Software prototyping
-- UX design & UX engineering
 
-### 🌱 I’m currently learning 
+### 🌱 I’m currently learning
 
-- JavaScript & TypeScript
-- HTML
-- CSS
-
-### :heart: I want to learn
-
-- Graphics programming
-- C++
-- Rust
+- Python
+- LLMs / RAG
 
 <!---
 toku345/toku345 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
